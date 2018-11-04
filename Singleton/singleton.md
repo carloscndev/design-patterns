@@ -10,4 +10,3 @@ Singleton: Permite una sola intencia de una clase en toda la aplicación
 ### Problem
 
 Application needs one, and only one, instance of an object. Additionallly, lazy initialization and global acces are necesary
-
